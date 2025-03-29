@@ -1,6 +1,5 @@
 from ast import List
 
-
 class Solution:
     def missingInteger(self, nums: List[int]) -> int:
         count = nums[0] # set the count to the first element in the list
